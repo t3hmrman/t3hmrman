@@ -1,6 +1,6 @@
 ### Hi, I'm vados 👋
 
-While other people were studying I got my degree in yak shaving. There are yaks all over the stack, and I go wherever the yaks are. In no particular order I'm interested in:
+I am an expert yak shaver. There are yaks all over the stack, and I go wherever the yaks are. In no particular order I'm interested in:
 
 - Typescript (when I want to be productive)
 - Rust (when I want to be fast)
@@ -21,5 +21,7 @@ I keep [a technical blog](https://vadosware.io). Here are some ~~yak shaves~~ po
 - [Nuxt Auth didn't always support HTTPOnly cookies, so I worked around it](https://vadosware.io/post/cookie-authentication-without-nuxt-auth/)
 
 I am currently in ( 🗼 Tokyo [x] | 🤠 Austin [ ] )
+
 Most of my projects and code are [on GitLab](https://gitlab.com/mrman).
+
 I have a twitter but I don't tweet or open twitter because it is a hellscape. [@vadosware](https://twitter.com/vadosware)
