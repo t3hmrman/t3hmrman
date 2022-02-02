@@ -38,4 +38,4 @@ I am currently in ( 🗼 Tokyo [x] | 🤠 Austin [ ] )
 
 Most of my projects and code are [on GitLab](https://gitlab.com/mrman).
 
-I have a twitter but I don't tweet or open twitter because it is a hellscape. [@vadosware](https://twitter.com/vadosware)
+I have a twitter but I don't tweet or ~~open twitter because it is a hellscape~~ (I've been opening twitter quite a lot lately 👀). [@vadosware](https://twitter.com/vadosware)
