@@ -11,6 +11,7 @@ I am an expert yak shaver. There are yaks all over the stack, and I go wherever 
 
 ### Products I'm working on
 
+- [Waaard](https://waaard.com?ref=github) - Share links only your (customers | teammates | clients | friends) can open.
 - [LoginWithHN](https://loginwithhn.com?ref=github) - An OAuth2+OpenID Connect provider for HackerNews, powered by [ORY Hydra](https://www.ory.sh/hydra/)
 - [Nimbus Web Services](https://nimbusws.com?ref=github) - A managed service provider (Redis, Object Storage, etc) for the small cloud (Hetzner, OVH, LeaseWeb)
 - [NoMorePizzaParties.com](https://nomorepizzaparties.com?ref=github) - Salary sharing sites for accountants
