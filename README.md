@@ -1,13 +1,6 @@
-## Hi, I'm vados 👋
+## Hi, I'm Victor 👋
 
-I am an expert yak shaver. There are yaks all over the stack, and I go wherever the yaks are. In no particular order I'm interested in:
-
-- Typescript (when I want to be productive)
-- Rust (when I want to be fast)
-- Haskell (when I want to be correct)
-- Kubernetes
-- Frontend "micro" frameworks (`lit-element`, `mithril`)
-- Component frameworks (`svelte`,`vue`, `react`)
+There are yaks all over the stack, and I go wherever the yaks are, with shears in hand.
 
 ### Products I'm working on
 
