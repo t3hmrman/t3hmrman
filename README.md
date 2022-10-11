@@ -1,6 +1,6 @@
 ## Hi, I'm Victor  👋
 
-There are [yaks to shave](https://en.wikipedia.org/wiki/Yak_shaving) all over the stack, and I go where the yaks are.
+There are [yaks to shave](https://en.wiktionary.org/wiki/yak_shaving) all over the stack, and I go where the yaks are.
 
 I am currently in ( 🗼 Tokyo [x] | 🤠 Austin [ ] )
 
