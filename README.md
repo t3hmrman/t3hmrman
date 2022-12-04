@@ -8,9 +8,9 @@ Most of my projects and code are [on GitLab](https://gitlab.com/mrman), and I tw
 
 ### Newer/Current Projects
 
-- [Awesome F/OSS newsletter](https://awesomefoss.com) - 60% of subscription revenue donated to F/OSS projects ([sign up here](https://baserow.vadosware.io/form/Xv5rChuZb-YodDOKjpJJpuDhrEgvzVQjFzT0eDg6Rbs))
-- [PodcastSaver.com](https://podcastsaver.com) (powered by Postgres FTS!)
 - [Nimbus Web Services](https://nimbusws.com?ref=github) - Services (Redis, Object Storage, etc) for the small cloud (Hetzner, OVH, LeaseWeb)
+- [Awesome F/OSS newsletter](https://awesomefoss.com) - Awesome F/OSS projects in your inbox, every week
+- [PodcastSaver.com](https://podcastsaver.com) - Download your favorite podcasts (powered by Postgres FTS, and Meilisearch)
 - [Unvalidated Startup/SaaS Ideas](https://unvalidated-ideas.vadosware.io?ref=github)
 - [`pg_idkit` - Generate the new wave of UUIDs in Postgres](https://github.com/t3hmrman/pg_idkit)
 
@@ -27,13 +27,16 @@ Most of my projects and code are [on GitLab](https://gitlab.com/mrman), and I tw
 I keep [a technical blog](https://vadosware.io), and you probably should too.
 
 Here are some recent ~~yak shaves~~ posts you might like that were recent the last time I updated this README:
+- [Self-Hosted email is the hardest it's ever been, but also the easiest.](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
+- [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 - [Slonik is awesome](https://vadosware.io/post/slonik-is-awesome/)
+- [FluentBit plus Loki for lightweight logs](https://vadosware.io/post/installing-fluent-bit-and-loki-for-lightweight-logs/)
 - [Building an interface (even if there's only one implementation) is unquestionably right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
 - [The future of Free and Open Source is AGPL](https://vadosware.io/post/the-future-of-free-and-open-source-is-agpl/)
-- [Everything I've seen on optimizing Postgres on ZFS](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/)
 
 Some other posts people seem to like:
-- [So you need to wait for some Kubernetes resoruces?](https://vadosware.io/post/so-you-need-to-wait-for-some-kubernetes-resources/)
+- [Everything I've seen on optimizing Postgres on ZFS](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/)
+- [So you need to wait for some Kubernetes resources?](https://vadosware.io/post/so-you-need-to-wait-for-some-kubernetes-resources/)
 - [How and why Haskell is better (than your favorite $LANGUAGE)](https://vadosware.io/post/how-and-why-haskell-is-better/)
 - [Paxosmon 2: The Paxos Journey Continues](https://vadosware.io/post/paxosmon-2-the-journey-continues/)
 - [Stuffing both SSH and HTTPS on port 443 with `stunnel`, `sslh` and `traefik`](https://vadosware.io/post/stuffing-both-ssh-and-https-on-port-443-with-stunnel-ssh-and-traefik/)
