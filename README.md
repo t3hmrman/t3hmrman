@@ -1,5 +1,7 @@
 ## Hi, I'm Victor  👋
 
+<img src="https://flying-git.com/t3hmrman.svg" />
+
 There are [yaks to shave](https://en.wiktionary.org/wiki/yak_shaving) all over the stack, and I go where the yaks are.
 
 I am currently in ( 🗼 Tokyo [x] | 🤠 Austin [ ] )
