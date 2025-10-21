@@ -10,7 +10,6 @@ Most of my projects and code are [on GitLab](https://gitlab.com/mrman), and I tw
 
 ### Newer/Current Projects
 
-- [☁ Nimbus Web Services](https://nimbusws.com?ref=gh-profile) - Services (Redis, Object Storage, etc) for the small cloud (Hetzner, OVH, LeaseWeb)
 - [🦀 `async-dropper` - The least-worst ad-hoc `AsyncDrop` implementation you've seen so far](https://github.com/t3hmrman/async-dropper)
 - [🦀 `situwaition` - A rust library for waiting](https://github.com/t3hmrman/situwaition)
 - [📨 Webhooked.email](https://webhooked.email?ref=gh-profile) - A webhook that emails you, in under 30 seconds.
